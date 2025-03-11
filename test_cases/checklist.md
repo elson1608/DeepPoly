@@ -1,0 +1,34 @@
+- [x] conv_linear,img_mnist_0.072113.txt,not verified
+- [x] conv_linear,img_mnist_0.079101.txt,verified
+- [x] fc_linear,img_mnist_0.077340.txt,not verified
+- [x] fc_linear,img_mnist_0.082864.txt,verified
+- [x] fc6_d,img_mnist_0.089335.txt,not verified
+- [ ] fc6_d,img_mnist_0.050621.txt,verified
+- [x] fc6_w,img_mnist_0.124546.txt,not verified
+- [x] fc6_w,img_mnist_0.042779.txt,verified
+- [x] fc_dw,img_mnist_0.071216.txt,not verified
+- [x] fc_dw,img_mnist_0.030104.txt,verified
+- [x] fc6_base,img_mnist_0.074530.txt,not verified
+- [x] fc6_base,img_mnist_0.044957.txt,verified
+- [x] fc_base,img_mnist_0.048508.txt,not verified
+- [x] fc_base,img_mnist_0.048839.txt,verified
+- [x] conv6_base,img_cifar10_0.003450.txt,not verified
+- [ ] conv6_base,img_cifar10_0.003959.txt,verified
+- [x] fc6_dw,img_mnist_0.082344.txt,not verified
+- [x] fc6_dw,img_mnist_0.034540.txt,verified
+- [x] fc_d,img_mnist_0.059808.txt,not verified
+- [x] fc_d,img_mnist_0.040164.txt,verified
+- [x] fc_w,img_mnist_0.110494.txt,not verified
+- [x] fc_w,img_mnist_0.042224.txt,verified
+- [x] conv_d,img_mnist_0.103841.txt,not verified
+- [x] conv_d,img_mnist_0.078071.txt,verified
+- [x] conv_base,img_mnist_0.075798.txt,not verified
+- [x] conv_base,img_mnist_0.055929.txt,verified
+- [x] skip6,img_mnist_0.102399.txt,not verified
+- [x] skip6,img_mnist_0.074744.txt,verified
+- [x] skip_large,img_mnist_0.131450.txt,not verified
+- [x] skip_large,img_mnist_0.041155.txt,verified
+- [x] skip,img_mnist_0.139199.txt,not verified
+- [ ] skip,img_mnist_0.078863.txt,verified
+- [x] skip6_large,img_mnist_0.068828.txt,not verified
+- [x] skip6_large,img_mnist_0.019448.txt,verified

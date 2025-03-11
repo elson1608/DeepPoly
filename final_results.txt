@@ -1,0 +1,173 @@
+net,test case,ground truth,your output,your runtime,your point
+conv_linear,img0_mnist_0.030107.txt,not verified,not verified,1.256,0
+conv_linear,img1_mnist_0.042078.txt,not verified,not verified,1.256,0
+conv_linear,img2_mnist_0.048613.txt,not verified,not verified,1.259,0
+conv_linear,img3_mnist_0.070726.txt,not verified,not verified,1.257,0
+conv_linear,img5_mnist_0.073074.txt,not verified,not verified,1.266,0
+conv_linear,img6_mnist_0.052523.txt,verified,verified,1.261,1
+conv_linear,img8_mnist_0.073041.txt,verified,verified,1.261,1
+conv_linear,img9_mnist_0.101203.txt,verified,verified,1.263,1
+conv_linear,img10_mnist_0.092133.txt,verified,verified,1.258,1
+conv_linear,img11_mnist_0.054028.txt,verified,verified,1.258,1
+fc_linear,img0_mnist_0.004477.txt,not verified,not verified,1.22,0
+fc_linear,img1_mnist_0.048407.txt,not verified,not verified,1.213,0
+fc_linear,img2_mnist_0.056856.txt,not verified,not verified,1.214,0
+fc_linear,img3_mnist_0.060120.txt,not verified,not verified,1.209,0
+fc_linear,img5_mnist_0.087074.txt,not verified,not verified,1.213,0
+fc_linear,img6_mnist_0.102748.txt,verified,verified,1.217,1
+fc_linear,img8_mnist_0.066782.txt,verified,verified,1.219,1
+fc_linear,img9_mnist_0.058504.txt,verified,verified,1.217,1
+fc_linear,img10_mnist_0.089835.txt,verified,verified,1.212,1
+fc_linear,img11_mnist_0.158360.txt,verified,verified,1.213,1
+fc6_d,img0_mnist_0.004768.txt,not verified,timeout (not verified),61,0
+fc6_d,img1_mnist_0.077233.txt,not verified,timeout (not verified),61,0
+fc6_d,img3_mnist_0.094721.txt,not verified,timeout (not verified),61,0
+fc6_d,img4_mnist_0.037590.txt,verified,verified,1.504,1
+fc6_d,img6_mnist_0.044522.txt,verified,verified,1.534,1
+fc6_d,img7_mnist_0.043096.txt,verified,verified,1.546,1
+fc6_d,img8_mnist_0.038144.txt,verified,verified,1.542,1
+fc6_d,img9_mnist_0.037590.txt,verified,verified,1.555,1
+fc6_d,img10_mnist_0.056404.txt,verified,verified,1.897,1
+fc6_d,img11_mnist_0.046344.txt,verified,verified,1.693,1
+fc6_w,img0_mnist_0.002323.txt,not verified,timeout (not verified),61,0
+fc6_w,img1_mnist_0.070586.txt,not verified,timeout (not verified),61,0
+fc6_w,img2_mnist_0.117592.txt,not verified,timeout (not verified),61,0
+fc6_w,img4_mnist_0.051968.txt,verified,verified,1.475,1
+fc6_w,img5_mnist_0.049988.txt,verified,verified,1.457,1
+fc6_w,img7_mnist_0.050146.txt,verified,verified,1.473,1
+fc6_w,img8_mnist_0.047730.txt,verified,verified,1.476,1
+fc6_w,img9_mnist_0.057157.txt,verified,verified,1.475,1
+fc6_w,img10_mnist_0.046423.txt,verified,verified,1.544,1
+fc6_w,img11_mnist_0.058108.txt,verified,verified,1.515,1
+fc_dw,img0_mnist_0.018995.txt,not verified,timeout (not verified),61,0
+fc_dw,img1_mnist_0.050675.txt,not verified,timeout (not verified),61,0
+fc_dw,img3_mnist_0.086298.txt,not verified,timeout (not verified),61,0
+fc_dw,img4_mnist_0.019369.txt,verified,verified,1.576,1
+fc_dw,img6_mnist_0.022419.txt,verified,verified,1.523,1
+fc_dw,img7_mnist_0.036283.txt,verified,verified,1.578,1
+fc_dw,img8_mnist_0.030500.txt,verified,verified,1.569,1
+fc_dw,img9_mnist_0.029787.txt,verified,verified,1.574,1
+fc_dw,img10_mnist_0.048601.txt,verified,verified,1.863,1
+fc_dw,img11_mnist_0.053790.txt,verified,verified,1.809,1
+fc6_base,img0_mnist_0.036379.txt,not verified,timeout (not verified),61,0
+fc6_base,img1_mnist_0.040622.txt,not verified,timeout (not verified),61,0
+fc6_base,img2_mnist_0.063693.txt,not verified,timeout (not verified),61,0
+fc6_base,img4_mnist_0.034540.txt,verified,verified,1.469,1
+fc6_base,img5_mnist_0.042462.txt,verified,verified,1.458,1
+fc6_base,img7_mnist_0.036362.txt,verified,verified,1.479,1
+fc6_base,img8_mnist_0.055493.txt,verified,verified,1.475,1
+fc6_base,img9_mnist_0.031094.txt,verified,verified,1.467,1
+fc6_base,img10_mnist_0.053394.txt,verified,verified,1.493,1
+fc6_base,img11_mnist_0.053077.txt,verified,verified,1.496,1
+fc_base,img0_mnist_0.018335.txt,not verified,timeout (not verified),61,0
+fc_base,img2_mnist_0.069879.txt,not verified,timeout (not verified),61,0
+fc_base,img3_mnist_0.075278.txt,not verified,timeout (not verified),61,0
+fc_base,img4_mnist_0.049512.txt,verified,verified,1.477,1
+fc_base,img6_mnist_0.049156.txt,verified,verified,1.46,1
+fc_base,img7_mnist_0.046898.txt,verified,verified,1.483,1
+fc_base,img8_mnist_0.070110.txt,verified,verified,1.468,1
+fc_base,img9_mnist_0.048839.txt,verified,verified,1.466,1
+fc_base,img10_mnist_0.072961.txt,verified,verified,1.481,1
+fc_base,img11_mnist_0.052523.txt,verified,verified,1.499,1
+conv6_base,img0_cifar10_0.000593.txt,not verified,timeout (not verified),61,0
+conv6_base,img1_cifar10_0.000909.txt,not verified,timeout (not verified),61,0
+conv6_base,img2_cifar10_0.001689.txt,not verified,timeout (not verified),61,0
+conv6_base,img4_cifar10_0.001726.txt,verified,verified,3.226,1
+conv6_base,img5_cifar10_0.003959.txt,verified,verified,3.027,1
+conv6_base,img7_cifar10_0.003162.txt,verified,verified,4.319,1
+conv6_base,img8_cifar10_0.003959.txt,verified,verified,2.154,1
+conv6_base,img9_cifar10_0.003503.txt,verified,verified,3.118,1
+conv6_base,img10_cifar10_0.003959.txt,verified,verified,2.187,1
+conv6_base,img11_cifar10_0.003959.txt,verified,verified,2.193,1
+fc6_dw,img0_mnist_0.012496.txt,not verified,timeout (not verified),61,0
+fc6_dw,img1_mnist_0.059047.txt,not verified,timeout (not verified),61,0
+fc6_dw,img2_mnist_0.072178.txt,not verified,timeout (not verified),61,0
+fc6_dw,img4_mnist_0.035530.txt,verified,verified,1.528,1
+fc6_dw,img5_mnist_0.031411.txt,verified,verified,1.585,1
+fc6_dw,img7_mnist_0.026618.txt,verified,verified,1.568,1
+fc6_dw,img8_mnist_0.030737.txt,verified,verified,1.605,1
+fc6_dw,img9_mnist_0.025232.txt,verified,verified,1.586,1
+fc6_dw,img10_mnist_0.052760.txt,verified,verified,1.944,1
+fc6_dw,img11_mnist_0.051216.txt,verified,verified,1.845,1
+fc_d,img0_mnist_0.022949.txt,not verified,timeout (not verified),61,0
+fc_d,img1_mnist_0.038418.txt,not verified,timeout (not verified),61,0
+fc_d,img2_mnist_0.053095.txt,not verified,timeout (not verified),61,0
+fc_d,img4_mnist_0.045868.txt,verified,verified,1.509,1
+fc_d,img6_mnist_0.032718.txt,verified,verified,1.496,1
+fc_d,img7_mnist_0.046423.txt,verified,verified,1.526,1
+fc_d,img8_mnist_0.032163.txt,verified,verified,1.523,1
+fc_d,img9_mnist_0.044442.txt,verified,verified,1.546,1
+fc_d,img10_mnist_0.071258.txt,verified,verified,1.69,1
+fc_d,img11_mnist_0.055850.txt,verified,verified,1.716,1
+fc_w,img0_mnist_0.063666.txt,not verified,timeout (not verified),61,0
+fc_w,img2_mnist_0.139818.txt,not verified,timeout (not verified),61,0
+fc_w,img3_mnist_0.141104.txt,not verified,timeout (not verified),61,0
+fc_w,img4_mnist_0.057236.txt,verified,verified,1.476,1
+fc_w,img5_mnist_0.039570.txt,verified,verified,1.475,1
+fc_w,img7_mnist_0.059573.txt,verified,verified,1.469,1
+fc_w,img8_mnist_0.043492.txt,verified,verified,1.47,1
+fc_w,img9_mnist_0.043333.txt,verified,verified,1.463,1
+fc_w,img10_mnist_0.082230.txt,verified,verified,1.501,1
+fc_w,img11_mnist_0.048284.txt,verified,verified,1.516,1
+conv_d,img0_mnist_0.093947.txt,not verified,timeout (not verified),61,0
+conv_d,img1_mnist_0.102314.txt,not verified,timeout (not verified),61,0
+conv_d,img3_mnist_0.104220.txt,not verified,timeout (not verified),61,0
+conv_d,img4_mnist_0.073991.txt,verified,verified,2.096,1
+conv_d,img5_mnist_0.070704.txt,verified,verified,2.071,1
+conv_d,img7_mnist_0.078863.txt,verified,verified,2.057,1
+conv_d,img8_mnist_0.077913.txt,verified,verified,3.092,1
+conv_d,img9_mnist_0.072486.txt,verified,verified,3.536,1
+conv_d,img10_mnist_0.084488.txt,verified,verified,7.8,1
+conv_d,img11_mnist_0.090667.txt,verified,verified,7.845,1
+conv_base,img0_mnist_0.064285.txt,not verified,timeout (not verified),61,0
+conv_base,img1_mnist_0.073686.txt,not verified,timeout (not verified),61,0
+conv_base,img2_mnist_0.075509.txt,not verified,timeout (not verified),61,0
+conv_base,img4_mnist_0.038857.txt,verified,verified,1.91,1
+conv_base,img5_mnist_0.038778.txt,verified,verified,1.888,1
+conv_base,img7_mnist_0.060128.txt,verified,verified,1.921,1
+conv_base,img8_mnist_0.054622.txt,verified,verified,2.488,1
+conv_base,img9_mnist_0.039768.txt,verified,verified,2.308,1
+conv_base,img10_mnist_0.062742.txt,verified,verified,3.345,1
+conv_base,img11_mnist_0.071496.txt,verified,verified,3.199,1
+skip6,img0_mnist_0.014042.txt,not verified,timeout (not verified),61,0
+skip6,img1_mnist_0.027562.txt,not verified,timeout (not verified),61,0
+skip6,img2_mnist_0.078623.txt,not verified,timeout (not verified),61,0
+skip6,img4_mnist_0.075734.txt,verified,verified,1.476,1
+skip6,img6_mnist_0.055929.txt,verified,verified,1.484,1
+skip6,img7_mnist_0.081002.txt,verified,verified,1.516,1
+skip6,img8_mnist_0.103382.txt,verified,verified,1.491,1
+skip6,img9_mnist_0.086033.txt,verified,verified,1.499,1
+skip6,img10_mnist_0.090667.txt,verified,verified,1.528,1
+skip6,img11_mnist_0.068089.txt,verified,verified,1.529,1
+skip_large,img0_mnist_0.081176.txt,not verified,timeout (not verified),61,0
+skip_large,img1_mnist_0.087181.txt,not verified,timeout (not verified),61,0
+skip_large,img2_mnist_0.110872.txt,not verified,timeout (not verified),61,0
+skip_large,img4_mnist_0.033906.txt,verified,verified,1.656,1
+skip_large,img6_mnist_0.027767.txt,verified,verified,1.647,1
+skip_large,img7_mnist_0.039610.txt,verified,verified,1.649,1
+skip_large,img8_mnist_0.041313.txt,verified,verified,1.664,1
+skip_large,img9_mnist_0.028321.txt,verified,verified,1.655,1
+skip_large,img10_mnist_0.045195.txt,verified,verified,1.957,1
+skip_large,img11_mnist_0.041234.txt,verified,verified,2.259,1
+skip,img0_mnist_0.023631.txt,not verified,timeout (not verified),61,0
+skip,img1_mnist_0.097574.txt,not verified,timeout (not verified),61,0
+skip,img2_mnist_0.118939.txt,not verified,timeout (not verified),61,0
+skip,img4_mnist_0.055097.txt,verified,verified,1.46,1
+skip,img5_mnist_0.071021.txt,verified,verified,1.464,1
+skip,img7_mnist_0.103382.txt,verified,verified,1.474,1
+skip,img8_mnist_0.066901.txt,verified,verified,1.467,1
+skip,img9_mnist_0.095183.txt,verified,verified,1.473,1
+skip,img10_mnist_0.100253.txt,verified,verified,1.5,1
+skip,img11_mnist_0.080170.txt,verified,verified,1.501,1
+skip6_large,img0_mnist_0.063030.txt,not verified,timeout (not verified),61,0
+skip6_large,img2_mnist_0.079603.txt,not verified,timeout (not verified),61,0
+skip6_large,img3_mnist_0.082439.txt,not verified,timeout (not verified),61,0
+skip6_large,img4_mnist_0.024756.txt,verified,verified,1.582,1
+skip6_large,img6_mnist_0.029113.txt,verified,verified,1.628,1
+skip6_large,img7_mnist_0.025628.txt,verified,verified,1.636,1
+skip6_large,img8_mnist_0.024083.txt,verified,verified,1.641,1
+skip6_large,img9_mnist_0.030262.txt,verified,verified,1.644,1
+skip6_large,img10_mnist_0.035134.txt,verified,verified,2.322,1
+skip6_large,img11_mnist_0.058345.txt,verified,verified,2.078,1
+
+total points: 115
